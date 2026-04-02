@@ -123,4 +123,4 @@ mvn jacoco:report
 
 ## License
 
-This project is part of a take-home assignment.
+This project is part of a take-home assignment for Java Core.
