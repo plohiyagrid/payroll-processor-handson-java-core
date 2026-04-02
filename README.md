@@ -27,7 +27,7 @@ A production-ready employee payroll calculator system that computes monthly sala
 ```
 src/
 ├── main/
-│   ├── java/com/intuit/payroll/
+│   ├── java/com/grid/payroll/
 │   │   ├── domain/          # Employee, PaySlip, EmployeeType, EmployeeBuilder
 │   │   ├── strategy/        # Pay calculation strategies (Strategy Pattern)
 │   │   ├── calculator/      # TaxCalculator, DeductionCalculator
